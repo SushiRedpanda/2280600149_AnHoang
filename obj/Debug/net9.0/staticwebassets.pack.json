@@ -1,0 +1,389 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\2280600149_AnHoang\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\2280600149_AnHoang.bundle.scp.css",
+      "PackagePath": "staticwebassets\\2280600149_AnHoang.vfm8hyoz5e.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\images\\img\\ha.jpg",
+      "PackagePath": "staticwebassets\\images\\img\\ha.jpg"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\images\\img\\hd.jpg",
+      "PackagePath": "staticwebassets\\images\\img\\hd.jpg"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\images\\img\\logo.jpg",
+      "PackagePath": "staticwebassets\\images\\img\\logo.jpg"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\images\\img\\qt.jpg",
+      "PackagePath": "staticwebassets\\images\\img\\qt.jpg"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\images\\img\\wall.jpg",
+      "PackagePath": "staticwebassets\\images\\img\\wall.jpg"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\images\\img\\wall3.jpg",
+      "PackagePath": "staticwebassets\\images\\img\\wall3.jpg"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\images\\img\\wall4.jpg",
+      "PackagePath": "staticwebassets\\images\\img\\wall4.jpg"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\images\\products\\091a2a06-a97e-4811-8283-4d4e45c8263c_9b91a258c58bf071264f57f405db1daf.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\091a2a06-a97e-4811-8283-4d4e45c8263c_9b91a258c58bf071264f57f405db1daf.jpg"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\images\\products\\0b30e158-f4e3-4d1e-ac6e-42a4fbf90dbf_96175db23327eb79b236.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\0b30e158-f4e3-4d1e-ac6e-42a4fbf90dbf_96175db23327eb79b236.jpg"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\images\\products\\301b9c19-9e9b-45cf-9dc6-bf3ed5a0e417_718c2e565fa0b7e328bf750b710fcf7e.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\301b9c19-9e9b-45cf-9dc6-bf3ed5a0e417_718c2e565fa0b7e328bf750b710fcf7e.jpg"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\images\\products\\307dc41b-b3ca-49be-8717-ec0b8ea0e77e_image.png",
+      "PackagePath": "staticwebassets\\images\\products\\307dc41b-b3ca-49be-8717-ec0b8ea0e77e_image.png"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\images\\products\\4a496d91-4a82-4143-9e74-4ab16db7c3d9_Screenshot (31).png",
+      "PackagePath": "staticwebassets\\images\\products\\4a496d91-4a82-4143-9e74-4ab16db7c3d9_Screenshot (31).png"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\images\\products\\4cb9d3c4-46f8-4eff-8f81-3a9b8bdf9486_Screenshot (31).png",
+      "PackagePath": "staticwebassets\\images\\products\\4cb9d3c4-46f8-4eff-8f81-3a9b8bdf9486_Screenshot (31).png"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\images\\products\\6303d04b-fb7a-4ea6-bacb-1a56b098047d_image.png",
+      "PackagePath": "staticwebassets\\images\\products\\6303d04b-fb7a-4ea6-bacb-1a56b098047d_image.png"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\images\\products\\7559232a-78d5-4407-aac8-b2fa02ce9862_bmw-m-1000-rr-race-bikes-2021-5k-2880x1800-2744.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\7559232a-78d5-4407-aac8-b2fa02ce9862_bmw-m-1000-rr-race-bikes-2021-5k-2880x1800-2744.jpg"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\images\\products\\97b966dc-9ce8-499a-9cd6-c85c0e4da0b2_9715ac7788799b0c28c2cfc96c45acea.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\97b966dc-9ce8-499a-9cd6-c85c0e4da0b2_9715ac7788799b0c28c2cfc96c45acea.jpg"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\images\\products\\c811aec5-8d80-4b36-b63a-d2f8905536e9_4a496d91-4a82-4143-9e74-4ab16db7c3d9_Screenshot (31).png",
+      "PackagePath": "staticwebassets\\images\\products\\c811aec5-8d80-4b36-b63a-d2f8905536e9_4a496d91-4a82-4143-9e74-4ab16db7c3d9_Screenshot (31).png"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\images\\products\\de0b0a9b-baa4-4063-bfec-d576228cfc57_feat2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\de0b0a9b-baa4-4063-bfec-d576228cfc57_feat2.jpg"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\images\\products\\ec6b3b05-138f-4b62-88eb-3ca36b353711_bmw-m-1000-rr-race-bikes-2021-5k-2880x1800-2744.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\ec6b3b05-138f-4b62-88eb-3ca36b353711_bmw-m-1000-rr-race-bikes-2021-5k-2880x1800-2744.jpg"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\images\\products\\ed298001-8220-452c-92fe-9455fb52134d_z6442164996407_0472df6fa271a7f8825f8f4885904ad4.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\ed298001-8220-452c-92fe-9455fb52134d_z6442164996407_0472df6fa271a7f8825f8f4885904ad4.jpg"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\images\\products\\f866d0d4-7629-45ad-abf3-4cf65f5ebf6a_bmw-m-1000-rr-race-bikes-2021-5k-2880x1800-2744.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\f866d0d4-7629-45ad-abf3-4cf65f5ebf6a_bmw-m-1000-rr-race-bikes-2021-5k-2880x1800-2744.jpg"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\images\\products\\service-3.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\service-3.jpg"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\images\\users\\26a41ddf-2200-4047-b8cd-58187f87abd1_DSC_0408.JPG",
+      "PackagePath": "staticwebassets\\images\\users\\26a41ddf-2200-4047-b8cd-58187f87abd1_DSC_0408.JPG"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\images\\users\\2932228d-4b3b-45c0-a01c-4beaf6da972c_image.png",
+      "PackagePath": "staticwebassets\\images\\users\\2932228d-4b3b-45c0-a01c-4beaf6da972c_image.png"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\images\\users\\5b5b96bf-105b-4a2b-a71e-b8f9ee0545d9_Screenshot (31).png",
+      "PackagePath": "staticwebassets\\images\\users\\5b5b96bf-105b-4a2b-a71e-b8f9ee0545d9_Screenshot (31).png"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\images\\users\\7d5f3075-a7d9-4663-b814-e3d00f4cb0bb_qt.jpg",
+      "PackagePath": "staticwebassets\\images\\users\\7d5f3075-a7d9-4663-b814-e3d00f4cb0bb_qt.jpg"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\images\\users\\9bd98fd4-ddf1-4db0-8ad6-2bb1699f9ac7_Screenshot (35).png",
+      "PackagePath": "staticwebassets\\images\\users\\9bd98fd4-ddf1-4db0-8ad6-2bb1699f9ac7_Screenshot (35).png"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "D:\\2280600149_AnHoang\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.2280600149_AnHoang.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.2280600149_AnHoang.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.2280600149_AnHoang.props",
+      "PackagePath": "build\\2280600149_AnHoang.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.2280600149_AnHoang.props",
+      "PackagePath": "buildMultiTargeting\\2280600149_AnHoang.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.2280600149_AnHoang.props",
+      "PackagePath": "buildTransitive\\2280600149_AnHoang.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
