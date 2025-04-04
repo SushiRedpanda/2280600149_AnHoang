@@ -48,8 +48,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>b9sayid5wm</Fingerprint>
-      <Integrity>j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=</Integrity>
+      <Fingerprint>bipgjlp9bx</Fingerprint>
+      <Integrity>Ixw6/dZJ2RF5GKDlruHRsx392BgB4KOgDLXYdlZcG58=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</OriginalItemSpec>
@@ -1170,6 +1170,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\c811aec5-8d80-4b36-b63a-d2f8905536e9_4a496d91-4a82-4143-9e74-4ab16db7c3d9_Screenshot (31).png'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\cc7aa3cf-1eae-4f8d-8c90-b14318b74ef1_ipad-air-11-inch-m2-wifi-blue-1-750x500.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HoangAn_2280600149</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HoangAn_2280600149</BasePath>
+      <RelativePath>images/products/cc7aa3cf-1eae-4f8d-8c90-b14318b74ef1_ipad-air-11-inch-m2-wifi-blue-1-750x500.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>rm8lg4aldo</Fingerprint>
+      <Integrity>DWG9tbp0WBXWVk0vx46SX40fIIPks3zdGls/rVcwq9w=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\cc7aa3cf-1eae-4f8d-8c90-b14318b74ef1_ipad-air-11-inch-m2-wifi-blue-1-750x500.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\dd34f599-a399-4749-a0cb-2e4779471ff1_96175db23327eb79b236.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>HoangAn_2280600149</SourceId>
@@ -1403,6 +1421,24 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\users\65937f6b-0c3a-45e7-ac07-2109d37a2bbb_diskette.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\users\674c1b5c-0464-4639-a0bc-10d184f1b53f_ipad-air-11-inch-m2-wifi-blue-1-750x500.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>HoangAn_2280600149</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/HoangAn_2280600149</BasePath>
+      <RelativePath>images/users/674c1b5c-0464-4639-a0bc-10d184f1b53f_ipad-air-11-inch-m2-wifi-blue-1-750x500.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>rm8lg4aldo</Fingerprint>
+      <Integrity>DWG9tbp0WBXWVk0vx46SX40fIIPks3zdGls/rVcwq9w=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\users\674c1b5c-0464-4639-a0bc-10d184f1b53f_ipad-air-11-inch-m2-wifi-blue-1-750x500.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\users\68977e62-65ec-4347-a1ef-3809ac73c5bd_diskette.png'))">
       <SourceType>Package</SourceType>

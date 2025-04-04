@@ -28,14 +28,16 @@
 
                         @if (User.IsInRole("Administrator"))
                         {
-                            <li class="nav-item">
-                                <a class="nav-link text-dark" asp-area="" asp-controller="Category" asp-action="Index">Quản lý danh mục</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link text-dark" asp-area="" asp-controller="Account" asp-action="Index">Quản lý người dùng</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" asp-controller="RoleManagement" asp-action="Index">Role Management</a>
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle text-dark" href="#" id="adminDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                    <i class='bx bx-cog me-1'></i>Quản lý hệ thống
+                                </a>
+                                <ul class="dropdown-menu" aria-labelledby="adminDropdown">
+                                    <li><a class="dropdown-item" asp-area="" asp-controller="Product" asp-action="Index"><i class='bx bx-package me-2'></i>Quản lý sản phẩm</a></li>
+                                    <li><a class="dropdown-item" asp-area="" asp-controller="Category" asp-action="Index"><i class='bx bx-category me-2'></i>Quản lý danh mục</a></li>
+                                    <li><a class="dropdown-item" asp-area="" asp-controller="Account" asp-action="Index"><i class='bx bx-user me-2'></i>Quản lý người dùng</a></li>
+                                    <li><a class="dropdown-item" asp-area="" asp-controller="RoleManagement" asp-action="Index"><i class='bx bx-user-check me-2'></i>Quản lý vai trò</a></li>
+                                </ul>
                             </li>
                         }
 
@@ -45,7 +47,7 @@
                                 <a class="nav-link text-dark" asp-area="" asp-controller="Account" asp-action="Details">Thông tin cá nhân</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link text-dark" asp-area="" asp-controller="ShoppingCart" asp-action="MyOrders">Đơn hàng của tôi</a>
+                                <a class="nav-link text-dark" asp-area="" asp-controller="ShoppingCart" asp-action="MyOrders">Quản lý đơn hàng</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link text-dark position-relative" asp-controller="Home" asp-action="Cart">
@@ -77,8 +79,7 @@
             </div>
 
             <ul class="nav col-md-4 justify-content-end list-unstyled d-flex">
-                <li class="ms-3"><a href="https://www.facebook.com/ngohuuduc.tkc" target="_blank"><i class='bx bxl-facebook-circle bx-md' style='color:rgb(41, 41, 41)'></i></a></li>
-                <li class="ms-3"><a href="https://github.com/khoangrtroongs"></a><i class='bx bxl-github bx-md' style='color:rgb(41, 41, 41)'></i></li>
+                <li class="ms-3"><a href="https://www.facebook.com/profile.php?id=100041784586442" target="_blank"><i class='bx bxl-facebook-circle bx-md' style='color:rgb(41, 41, 41)'></i></a></li>
             </ul>
         </footer>
     </div>

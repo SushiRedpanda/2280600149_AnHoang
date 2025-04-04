@@ -1,591 +1,599 @@
 {
   "Files": [
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\HoangAn_2280600149.bundle.scp.css",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\HoangAn_2280600149.bundle.scp.css",
       "PackagePath": "staticwebassets\\HoangAn_2280600149.i1rrc3ka18.bundle.scp.css"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\css\\dashboard.css",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\css\\dashboard.css",
       "PackagePath": "staticwebassets\\css\\dashboard.css"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\css\\elegant-theme.css",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\css\\elegant-theme.css",
       "PackagePath": "staticwebassets\\css\\elegant-theme.css"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\css\\site.css",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\favicon.ico",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\img\\feat1.jpg",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\img\\feat1.jpg",
       "PackagePath": "staticwebassets\\images\\img\\feat1.jpg"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\img\\feat2.jpg",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\img\\feat2.jpg",
       "PackagePath": "staticwebassets\\images\\img\\feat2.jpg"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\img\\ha.jpg",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\img\\ha.jpg",
       "PackagePath": "staticwebassets\\images\\img\\ha.jpg"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\img\\hd.jpg",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\img\\hd.jpg",
       "PackagePath": "staticwebassets\\images\\img\\hd.jpg"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\img\\img1.jpg",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\img\\img1.jpg",
       "PackagePath": "staticwebassets\\images\\img\\img1.jpg"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\img\\img10.jpg",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\img\\img10.jpg",
       "PackagePath": "staticwebassets\\images\\img\\img10.jpg"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\img\\img11.jpg",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\img\\img11.jpg",
       "PackagePath": "staticwebassets\\images\\img\\img11.jpg"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\img\\img12.jpg",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\img\\img12.jpg",
       "PackagePath": "staticwebassets\\images\\img\\img12.jpg"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\img\\img13.jpg",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\img\\img13.jpg",
       "PackagePath": "staticwebassets\\images\\img\\img13.jpg"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\img\\img14.jpg",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\img\\img14.jpg",
       "PackagePath": "staticwebassets\\images\\img\\img14.jpg"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\img\\img15.jpg",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\img\\img15.jpg",
       "PackagePath": "staticwebassets\\images\\img\\img15.jpg"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\img\\img16.jpg",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\img\\img16.jpg",
       "PackagePath": "staticwebassets\\images\\img\\img16.jpg"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\img\\img17.jpg",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\img\\img17.jpg",
       "PackagePath": "staticwebassets\\images\\img\\img17.jpg"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\img\\img18.jpg",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\img\\img18.jpg",
       "PackagePath": "staticwebassets\\images\\img\\img18.jpg"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\img\\img19.jpg",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\img\\img19.jpg",
       "PackagePath": "staticwebassets\\images\\img\\img19.jpg"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\img\\img2.jpg",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\img\\img2.jpg",
       "PackagePath": "staticwebassets\\images\\img\\img2.jpg"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\img\\img20.jpg",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\img\\img20.jpg",
       "PackagePath": "staticwebassets\\images\\img\\img20.jpg"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\img\\img3.jpg",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\img\\img3.jpg",
       "PackagePath": "staticwebassets\\images\\img\\img3.jpg"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\img\\img4.jpg",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\img\\img4.jpg",
       "PackagePath": "staticwebassets\\images\\img\\img4.jpg"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\img\\img5.jpg",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\img\\img5.jpg",
       "PackagePath": "staticwebassets\\images\\img\\img5.jpg"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\img\\img6.jpg",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\img\\img6.jpg",
       "PackagePath": "staticwebassets\\images\\img\\img6.jpg"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\img\\img7.jpg",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\img\\img7.jpg",
       "PackagePath": "staticwebassets\\images\\img\\img7.jpg"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\img\\img8.jpg",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\img\\img8.jpg",
       "PackagePath": "staticwebassets\\images\\img\\img8.jpg"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\img\\img9.jpg",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\img\\img9.jpg",
       "PackagePath": "staticwebassets\\images\\img\\img9.jpg"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\img\\logo.jpg",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\img\\logo.jpg",
       "PackagePath": "staticwebassets\\images\\img\\logo.jpg"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\img\\man1.jpg",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\img\\man1.jpg",
       "PackagePath": "staticwebassets\\images\\img\\man1.jpg"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\img\\maydo.jpg",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\img\\maydo.jpg",
       "PackagePath": "staticwebassets\\images\\img\\maydo.jpg"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\img\\model2.jpg",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\img\\model2.jpg",
       "PackagePath": "staticwebassets\\images\\img\\model2.jpg"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\img\\model3.jpg",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\img\\model3.jpg",
       "PackagePath": "staticwebassets\\images\\img\\model3.jpg"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\img\\qt.jpg",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\img\\qt.jpg",
       "PackagePath": "staticwebassets\\images\\img\\qt.jpg"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\img\\slogan.jpg",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\img\\slogan.jpg",
       "PackagePath": "staticwebassets\\images\\img\\slogan.jpg"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\img\\wall.jpg",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\img\\wall.jpg",
       "PackagePath": "staticwebassets\\images\\img\\wall.jpg"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\img\\wall2.jpg",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\img\\wall2.jpg",
       "PackagePath": "staticwebassets\\images\\img\\wall2.jpg"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\img\\wall3.jpg",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\img\\wall3.jpg",
       "PackagePath": "staticwebassets\\images\\img\\wall3.jpg"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\img\\wall4.jpg",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\img\\wall4.jpg",
       "PackagePath": "staticwebassets\\images\\img\\wall4.jpg"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\img\\wall5.jpg",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\img\\wall5.jpg",
       "PackagePath": "staticwebassets\\images\\img\\wall5.jpg"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\products\\091a2a06-a97e-4811-8283-4d4e45c8263c_9b91a258c58bf071264f57f405db1daf.jpg",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\products\\091a2a06-a97e-4811-8283-4d4e45c8263c_9b91a258c58bf071264f57f405db1daf.jpg",
       "PackagePath": "staticwebassets\\images\\products\\091a2a06-a97e-4811-8283-4d4e45c8263c_9b91a258c58bf071264f57f405db1daf.jpg"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\products\\0b30e158-f4e3-4d1e-ac6e-42a4fbf90dbf_96175db23327eb79b236.jpg",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\products\\0b30e158-f4e3-4d1e-ac6e-42a4fbf90dbf_96175db23327eb79b236.jpg",
       "PackagePath": "staticwebassets\\images\\products\\0b30e158-f4e3-4d1e-ac6e-42a4fbf90dbf_96175db23327eb79b236.jpg"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\products\\149fef15-aba3-4795-9b84-5022999b4def_9b91a258c58bf071264f57f405db1daf.jpg",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\products\\149fef15-aba3-4795-9b84-5022999b4def_9b91a258c58bf071264f57f405db1daf.jpg",
       "PackagePath": "staticwebassets\\images\\products\\149fef15-aba3-4795-9b84-5022999b4def_9b91a258c58bf071264f57f405db1daf.jpg"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\products\\1d123a37-cf90-44a5-9a73-1d8740714075_2932228d-4b3b-45c0-a01c-4beaf6da972c_image.png",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\products\\1d123a37-cf90-44a5-9a73-1d8740714075_2932228d-4b3b-45c0-a01c-4beaf6da972c_image.png",
       "PackagePath": "staticwebassets\\images\\products\\1d123a37-cf90-44a5-9a73-1d8740714075_2932228d-4b3b-45c0-a01c-4beaf6da972c_image.png"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\products\\301b9c19-9e9b-45cf-9dc6-bf3ed5a0e417_718c2e565fa0b7e328bf750b710fcf7e.jpg",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\products\\301b9c19-9e9b-45cf-9dc6-bf3ed5a0e417_718c2e565fa0b7e328bf750b710fcf7e.jpg",
       "PackagePath": "staticwebassets\\images\\products\\301b9c19-9e9b-45cf-9dc6-bf3ed5a0e417_718c2e565fa0b7e328bf750b710fcf7e.jpg"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\products\\307dc41b-b3ca-49be-8717-ec0b8ea0e77e_image.png",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\products\\307dc41b-b3ca-49be-8717-ec0b8ea0e77e_image.png",
       "PackagePath": "staticwebassets\\images\\products\\307dc41b-b3ca-49be-8717-ec0b8ea0e77e_image.png"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\products\\48edf78b-8bed-4789-952c-2c90ca56c5d7_9715ac7788799b0c28c2cfc96c45acea.jpg",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\products\\48edf78b-8bed-4789-952c-2c90ca56c5d7_9715ac7788799b0c28c2cfc96c45acea.jpg",
       "PackagePath": "staticwebassets\\images\\products\\48edf78b-8bed-4789-952c-2c90ca56c5d7_9715ac7788799b0c28c2cfc96c45acea.jpg"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\products\\4a496d91-4a82-4143-9e74-4ab16db7c3d9_Screenshot (31).png",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\products\\4a496d91-4a82-4143-9e74-4ab16db7c3d9_Screenshot (31).png",
       "PackagePath": "staticwebassets\\images\\products\\4a496d91-4a82-4143-9e74-4ab16db7c3d9_Screenshot (31).png"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\products\\4cb9d3c4-46f8-4eff-8f81-3a9b8bdf9486_Screenshot (31).png",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\products\\4cb9d3c4-46f8-4eff-8f81-3a9b8bdf9486_Screenshot (31).png",
       "PackagePath": "staticwebassets\\images\\products\\4cb9d3c4-46f8-4eff-8f81-3a9b8bdf9486_Screenshot (31).png"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\products\\4d572047-7c45-4a5b-acfe-c4216ef2188e_z6442164996407_0472df6fa271a7f8825f8f4885904ad4.jpg",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\products\\4d572047-7c45-4a5b-acfe-c4216ef2188e_z6442164996407_0472df6fa271a7f8825f8f4885904ad4.jpg",
       "PackagePath": "staticwebassets\\images\\products\\4d572047-7c45-4a5b-acfe-c4216ef2188e_z6442164996407_0472df6fa271a7f8825f8f4885904ad4.jpg"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\products\\53959a45-f822-46ac-8850-2f5a047fc448_z6442165807483_97f98ca356ff4c19cd43636b6674f48e.jpg",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\products\\53959a45-f822-46ac-8850-2f5a047fc448_z6442165807483_97f98ca356ff4c19cd43636b6674f48e.jpg",
       "PackagePath": "staticwebassets\\images\\products\\53959a45-f822-46ac-8850-2f5a047fc448_z6442165807483_97f98ca356ff4c19cd43636b6674f48e.jpg"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\products\\5fcbee6a-dab6-452e-ad71-ec4b3d489544_Screenshot (49).png",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\products\\5fcbee6a-dab6-452e-ad71-ec4b3d489544_Screenshot (49).png",
       "PackagePath": "staticwebassets\\images\\products\\5fcbee6a-dab6-452e-ad71-ec4b3d489544_Screenshot (49).png"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\products\\64e52329-25b1-4c46-9c09-af8d8b78c9e1_7456e29c4ea44b4b756384c7909f499b.jpg",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\products\\64e52329-25b1-4c46-9c09-af8d8b78c9e1_7456e29c4ea44b4b756384c7909f499b.jpg",
       "PackagePath": "staticwebassets\\images\\products\\64e52329-25b1-4c46-9c09-af8d8b78c9e1_7456e29c4ea44b4b756384c7909f499b.jpg"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\products\\67b82f78-3d06-4a36-96e3-b335f5826d06_img10.jpg",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\products\\67b82f78-3d06-4a36-96e3-b335f5826d06_img10.jpg",
       "PackagePath": "staticwebassets\\images\\products\\67b82f78-3d06-4a36-96e3-b335f5826d06_img10.jpg"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\products\\721bdbaa-3e20-4c6e-8cc8-3cd3edd0ed8b_img2.jpg",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\products\\721bdbaa-3e20-4c6e-8cc8-3cd3edd0ed8b_img2.jpg",
       "PackagePath": "staticwebassets\\images\\products\\721bdbaa-3e20-4c6e-8cc8-3cd3edd0ed8b_img2.jpg"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\products\\85291eac-c3d7-4406-93f8-16ca57e8fbe4_Screenshot 2025-03-31 202948.png",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\products\\85291eac-c3d7-4406-93f8-16ca57e8fbe4_Screenshot 2025-03-31 202948.png",
       "PackagePath": "staticwebassets\\images\\products\\85291eac-c3d7-4406-93f8-16ca57e8fbe4_Screenshot 2025-03-31 202948.png"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\products\\861ce0e2-8b1b-4323-a4d4-17026adbaa8c_9b91a258c58bf071264f57f405db1daf.jpg",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\products\\861ce0e2-8b1b-4323-a4d4-17026adbaa8c_9b91a258c58bf071264f57f405db1daf.jpg",
       "PackagePath": "staticwebassets\\images\\products\\861ce0e2-8b1b-4323-a4d4-17026adbaa8c_9b91a258c58bf071264f57f405db1daf.jpg"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\products\\91128ae3-76da-4696-8d81-9d3ddb4a1b01_718c2e565fa0b7e328bf750b710fcf7e.jpg",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\products\\91128ae3-76da-4696-8d81-9d3ddb4a1b01_718c2e565fa0b7e328bf750b710fcf7e.jpg",
       "PackagePath": "staticwebassets\\images\\products\\91128ae3-76da-4696-8d81-9d3ddb4a1b01_718c2e565fa0b7e328bf750b710fcf7e.jpg"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\products\\97b966dc-9ce8-499a-9cd6-c85c0e4da0b2_9715ac7788799b0c28c2cfc96c45acea.jpg",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\products\\97b966dc-9ce8-499a-9cd6-c85c0e4da0b2_9715ac7788799b0c28c2cfc96c45acea.jpg",
       "PackagePath": "staticwebassets\\images\\products\\97b966dc-9ce8-499a-9cd6-c85c0e4da0b2_9715ac7788799b0c28c2cfc96c45acea.jpg"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\products\\9dbcba64-1a4d-4b4f-a385-ef22cdbc848f_96175db23327eb79b236.jpg",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\products\\9dbcba64-1a4d-4b4f-a385-ef22cdbc848f_96175db23327eb79b236.jpg",
       "PackagePath": "staticwebassets\\images\\products\\9dbcba64-1a4d-4b4f-a385-ef22cdbc848f_96175db23327eb79b236.jpg"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\products\\aed58280-fae7-4c32-a83e-24f2338758ee_Screenshot (35).png",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\products\\aed58280-fae7-4c32-a83e-24f2338758ee_Screenshot (35).png",
       "PackagePath": "staticwebassets\\images\\products\\aed58280-fae7-4c32-a83e-24f2338758ee_Screenshot (35).png"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\products\\af831a49-568c-4806-ad07-2d3cdaf5da45_Screenshot (50).png",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\products\\af831a49-568c-4806-ad07-2d3cdaf5da45_Screenshot (50).png",
       "PackagePath": "staticwebassets\\images\\products\\af831a49-568c-4806-ad07-2d3cdaf5da45_Screenshot (50).png"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\products\\c296feac-4d71-4f71-86a9-c457718779e0_img8.jpg",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\products\\c296feac-4d71-4f71-86a9-c457718779e0_img8.jpg",
       "PackagePath": "staticwebassets\\images\\products\\c296feac-4d71-4f71-86a9-c457718779e0_img8.jpg"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\products\\c811aec5-8d80-4b36-b63a-d2f8905536e9_4a496d91-4a82-4143-9e74-4ab16db7c3d9_Screenshot (31).png",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\products\\c811aec5-8d80-4b36-b63a-d2f8905536e9_4a496d91-4a82-4143-9e74-4ab16db7c3d9_Screenshot (31).png",
       "PackagePath": "staticwebassets\\images\\products\\c811aec5-8d80-4b36-b63a-d2f8905536e9_4a496d91-4a82-4143-9e74-4ab16db7c3d9_Screenshot (31).png"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\products\\dd34f599-a399-4749-a0cb-2e4779471ff1_96175db23327eb79b236.jpg",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\products\\cc7aa3cf-1eae-4f8d-8c90-b14318b74ef1_ipad-air-11-inch-m2-wifi-blue-1-750x500.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\cc7aa3cf-1eae-4f8d-8c90-b14318b74ef1_ipad-air-11-inch-m2-wifi-blue-1-750x500.jpg"
+    },
+    {
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\products\\dd34f599-a399-4749-a0cb-2e4779471ff1_96175db23327eb79b236.jpg",
       "PackagePath": "staticwebassets\\images\\products\\dd34f599-a399-4749-a0cb-2e4779471ff1_96175db23327eb79b236.jpg"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\products\\de0b0a9b-baa4-4063-bfec-d576228cfc57_feat2.jpg",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\products\\de0b0a9b-baa4-4063-bfec-d576228cfc57_feat2.jpg",
       "PackagePath": "staticwebassets\\images\\products\\de0b0a9b-baa4-4063-bfec-d576228cfc57_feat2.jpg"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\products\\ed298001-8220-452c-92fe-9455fb52134d_z6442164996407_0472df6fa271a7f8825f8f4885904ad4.jpg",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\products\\ed298001-8220-452c-92fe-9455fb52134d_z6442164996407_0472df6fa271a7f8825f8f4885904ad4.jpg",
       "PackagePath": "staticwebassets\\images\\products\\ed298001-8220-452c-92fe-9455fb52134d_z6442164996407_0472df6fa271a7f8825f8f4885904ad4.jpg"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\users\\137f4b17-a260-49fe-b4da-de7e0c67d200_7456e29c4ea44b4b756384c7909f499b.jpg",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\users\\137f4b17-a260-49fe-b4da-de7e0c67d200_7456e29c4ea44b4b756384c7909f499b.jpg",
       "PackagePath": "staticwebassets\\images\\users\\137f4b17-a260-49fe-b4da-de7e0c67d200_7456e29c4ea44b4b756384c7909f499b.jpg"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\users\\19b7af56-1d1b-4652-9db1-26299c484f37_diskette.png",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\users\\19b7af56-1d1b-4652-9db1-26299c484f37_diskette.png",
       "PackagePath": "staticwebassets\\images\\users\\19b7af56-1d1b-4652-9db1-26299c484f37_diskette.png"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\users\\269f4614-4535-4cbb-9c3e-81276940e1fb_diskette.png",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\users\\269f4614-4535-4cbb-9c3e-81276940e1fb_diskette.png",
       "PackagePath": "staticwebassets\\images\\users\\269f4614-4535-4cbb-9c3e-81276940e1fb_diskette.png"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\users\\2932228d-4b3b-45c0-a01c-4beaf6da972c_image.png",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\users\\2932228d-4b3b-45c0-a01c-4beaf6da972c_image.png",
       "PackagePath": "staticwebassets\\images\\users\\2932228d-4b3b-45c0-a01c-4beaf6da972c_image.png"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\users\\3ec87bfa-9458-431a-88ef-179ca8e9319d_diskette.png",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\users\\3ec87bfa-9458-431a-88ef-179ca8e9319d_diskette.png",
       "PackagePath": "staticwebassets\\images\\users\\3ec87bfa-9458-431a-88ef-179ca8e9319d_diskette.png"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\users\\488b275a-553e-4334-98a3-66ff91a9a48b_diskette.png",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\users\\488b275a-553e-4334-98a3-66ff91a9a48b_diskette.png",
       "PackagePath": "staticwebassets\\images\\users\\488b275a-553e-4334-98a3-66ff91a9a48b_diskette.png"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\users\\5303ce1c-89cd-4cc5-b3fe-27ff96540d1b_diskette.png",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\users\\5303ce1c-89cd-4cc5-b3fe-27ff96540d1b_diskette.png",
       "PackagePath": "staticwebassets\\images\\users\\5303ce1c-89cd-4cc5-b3fe-27ff96540d1b_diskette.png"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\users\\5a51a9d8-0bad-44a2-88a5-53442dcfc724_diskette.png",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\users\\5a51a9d8-0bad-44a2-88a5-53442dcfc724_diskette.png",
       "PackagePath": "staticwebassets\\images\\users\\5a51a9d8-0bad-44a2-88a5-53442dcfc724_diskette.png"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\users\\5e952e45-f86f-46a2-b0ba-71e92f69f85b_diskette.png",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\users\\5e952e45-f86f-46a2-b0ba-71e92f69f85b_diskette.png",
       "PackagePath": "staticwebassets\\images\\users\\5e952e45-f86f-46a2-b0ba-71e92f69f85b_diskette.png"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\users\\65937f6b-0c3a-45e7-ac07-2109d37a2bbb_diskette.png",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\users\\65937f6b-0c3a-45e7-ac07-2109d37a2bbb_diskette.png",
       "PackagePath": "staticwebassets\\images\\users\\65937f6b-0c3a-45e7-ac07-2109d37a2bbb_diskette.png"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\users\\68977e62-65ec-4347-a1ef-3809ac73c5bd_diskette.png",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\users\\674c1b5c-0464-4639-a0bc-10d184f1b53f_ipad-air-11-inch-m2-wifi-blue-1-750x500.jpg",
+      "PackagePath": "staticwebassets\\images\\users\\674c1b5c-0464-4639-a0bc-10d184f1b53f_ipad-air-11-inch-m2-wifi-blue-1-750x500.jpg"
+    },
+    {
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\users\\68977e62-65ec-4347-a1ef-3809ac73c5bd_diskette.png",
       "PackagePath": "staticwebassets\\images\\users\\68977e62-65ec-4347-a1ef-3809ac73c5bd_diskette.png"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\users\\6e8d6a2a-f676-4767-b594-197258956ef8_Screenshot (31).png",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\users\\6e8d6a2a-f676-4767-b594-197258956ef8_Screenshot (31).png",
       "PackagePath": "staticwebassets\\images\\users\\6e8d6a2a-f676-4767-b594-197258956ef8_Screenshot (31).png"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\users\\7d5f3075-a7d9-4663-b814-e3d00f4cb0bb_qt.jpg",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\users\\7d5f3075-a7d9-4663-b814-e3d00f4cb0bb_qt.jpg",
       "PackagePath": "staticwebassets\\images\\users\\7d5f3075-a7d9-4663-b814-e3d00f4cb0bb_qt.jpg"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\users\\875bbe7e-4b8a-45cf-8f35-2e41f12585d8_96175db23327eb79b236.jpg",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\users\\875bbe7e-4b8a-45cf-8f35-2e41f12585d8_96175db23327eb79b236.jpg",
       "PackagePath": "staticwebassets\\images\\users\\875bbe7e-4b8a-45cf-8f35-2e41f12585d8_96175db23327eb79b236.jpg"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\users\\9f0ba52e-528f-4e6f-aaf8-fbb3cafcb74a_hd.jpg",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\users\\9f0ba52e-528f-4e6f-aaf8-fbb3cafcb74a_hd.jpg",
       "PackagePath": "staticwebassets\\images\\users\\9f0ba52e-528f-4e6f-aaf8-fbb3cafcb74a_hd.jpg"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\users\\dc405c00-629a-4c52-ab3e-8244411a4e72_9f0ba52e-528f-4e6f-aaf8-fbb3cafcb74a_hd.jpg",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\users\\dc405c00-629a-4c52-ab3e-8244411a4e72_9f0ba52e-528f-4e6f-aaf8-fbb3cafcb74a_hd.jpg",
       "PackagePath": "staticwebassets\\images\\users\\dc405c00-629a-4c52-ab3e-8244411a4e72_9f0ba52e-528f-4e6f-aaf8-fbb3cafcb74a_hd.jpg"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\users\\f07f679d-e791-4219-8834-d7e7da3f153c_model3.jpg",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\users\\f07f679d-e791-4219-8834-d7e7da3f153c_model3.jpg",
       "PackagePath": "staticwebassets\\images\\users\\f07f679d-e791-4219-8834-d7e7da3f153c_model3.jpg"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\users\\f0e3484b-b9c6-464b-85fa-63a71412cfe9_6b827c40a861b431171239b15ae193ef.jpg",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\images\\users\\f0e3484b-b9c6-464b-85fa-63a71412cfe9_6b827c40a861b431171239b15ae193ef.jpg",
       "PackagePath": "staticwebassets\\images\\users\\f0e3484b-b9c6-464b-85fa-63a71412cfe9_6b827c40a861b431171239b15ae193ef.jpg"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\js\\site.js",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
     },
     {
-      "Id": "D:\\WebApp\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "Id": "D:\\HoangAn_2280600149\\HoangAn_2280600149\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
     },
     {
